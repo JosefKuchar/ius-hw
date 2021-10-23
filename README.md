@@ -18,7 +18,7 @@ Navrhněte ER diagram královského informačního systému pro evidenci úředn
    - toho, kdy studium začalo a kdy skončilo
    - zda bylo zakončeno úspěšně
    - případně získaný akademický titul
- - skterými úředníky jsou v rodinném či jiném vztahu
+ - s kterými úředníky jsou v rodinném či jiném vztahu
  - jaké funkce zastávali
    - od kdy
    - do kdy
@@ -50,8 +50,7 @@ V KIS EU bude uveden
 Funkce má v rámci daného úřadu
 - jednoznačný kód
 - dále pak název
-- způsob
-- jakým lze funkci získat
+- způsob, jakým lze funkci získat
 - délku funkčního období
 - nadřízenou funkci (vyjma nejvyšší funkce úřadu)
 - kdy byla funkce na úřadu zavedena
