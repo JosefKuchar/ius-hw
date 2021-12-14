@@ -1,4 +1,4 @@
-# Domácí úkol IUS 2021 - VUT
+# ✏️ Domácí úkol IUS 2021 - VUT
 
 Hodnocení 12/12b
 
